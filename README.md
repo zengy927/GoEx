@@ -71,3 +71,6 @@ GoEx项目是为了统一并标准化各个数字资产交易平台的接口而�
 4. 请用OrderID2这个字段代替OrderID
 
 -----------------
+
+科学上网工具：
+https://vv.lanshuapi.com/c-1/a-XnaP/     安卓,苹果,Mac,Windows 
